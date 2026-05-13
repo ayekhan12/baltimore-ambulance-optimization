@@ -1,4 +1,5 @@
-# baltimore-ambulance-optimization
+# Optimizing Ambulance Locations for Maximized Survival Rates in Baltimore
+
 Optimized Baltimore ambulance placements using a Mixed Integer Linear Program (MILP) to maximize patient survival rates.  
 
 - Clustered 80,959 historical 911 calls using K-means to generate realistic demand zones and call-volume weights. 
